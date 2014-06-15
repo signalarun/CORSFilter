@@ -1,4 +1,6 @@
-CORSFilter
+Apache Tomcat: web.xml CORSFilter setup 
 ==========
+This is a basic **web.xml** template that uses Apache Tomcat's CORSFilter. 
 
-web.xml basic template, for setting up CORSFilter using Apache Tomcat
+You may need to adapt yours to your Web Application's necessities, for more information have a look at Apache Tomcat's documentation about CORSFilter website here:
+http://tomcat.apache.org/tomcat-7.0-doc/config/filter.html#CORS_Filter
